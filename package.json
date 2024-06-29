@@ -9,18 +9,34 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.5.2",
+    "@fortawesome/free-solid-svg-icons": "^6.5.2",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "@heroicons/react": "^2.1.4",
+    "framer-motion": "^11.2.12",
+    "next": "14.2.4",
+    "next-themes": "^0.3.0",
+    "nodemailer": "^6.9.14",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.4"
+    "react-icons": "^5.2.1",
+    "react-intersection-observer": "^9.10.3",
+    "react-multi-carousel": "^2.8.5",
+    "react-on-screen": "^2.1.1",
+    "react-paginate": "^8.2.0",
+    "react-tsparticles": "^2.12.2",
+    "react-type-animation": "^3.2.0",
+    "tsparticles": "^3.4.0"
   },
   "devDependencies": {
-    "typescript": "^5",
     "@types/node": "^20",
+    "@types/nodemailer": "^6.4.15",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.4",
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
-    "eslint": "^8",
-    "eslint-config-next": "14.2.4"
+    "typescript": "^5"
   }
 }
