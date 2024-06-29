@@ -1,40 +1,71 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Muhammad Faqih Hakim Portfolio
 
-## Getting Started
 
-First, run the development server:
+Explore MyPortofolio
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Table of Contents
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- [About](#about)
+- [Demo](#demo)
+- [Tools Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Links](#Links)
+- [Feedback](#Feedback)
+- [About Me](#AboutMe)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## About
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+This repository contains Muhammad Faqih Hakim's personal portfolio website. It includes various sections such as HeroSection, AboutMe, Projects, Certificates, Skills, and ContactMe.
 
-## Learn More
+## Demo
 
-To learn more about Next.js, take a look at the following resources:
+You can visit the live demo of the portfolio [here](https://www.faqihhakim.com).
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Tools Used
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- React
+- Next.js
+- Tailwind CSS
+- Framer Motion
+- Next.js Themes
 
-## Deploy on Vercel
+## Installation
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+To run this project locally, follow these steps:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-=======
-# MyPortofolio
->>>>>>> f94c2cbb3a4d3e0791a49a82bca577cded0d7beb
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Fqih/MyPortofolio.git
+   ```
+2. Install dependencies:
+    ```bash
+    npm install
+    ```
+3. Start
+    ```bash
+    npm run dev
+   ```
+## Usage
+*  Customize the content in src/components/Main to showcase your projects, certificates, and skills.
+*  Modify src/components/NavBar and src/components/Footer to personalize navigation and footer sections.
+*  Update src/components/Main/ContactMe.tsx to integrate your own contact form handling logic.
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faqih-hakim/)
+
+
+[![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fqihhkim21_/?hl=id)
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at mhmdfkih21@gmail.com
+
+
+## About me
+
+Name    : Muhammad Faqih Hakim 
+
+Email : mhmdfkih21@gmail.com
