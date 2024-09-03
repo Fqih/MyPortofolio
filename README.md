@@ -28,7 +28,7 @@ You can visit the live demo of the portfolio [here](https://www.faqihhakim.com).
 - Next.js
 - Tailwind CSS
 - Framer Motion
-- Next.js Themes
+
 
 ## Installation
 
